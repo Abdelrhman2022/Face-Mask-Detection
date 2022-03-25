@@ -1,9 +1,15 @@
+  
 <h1 align="center">Face Mask Detection</h1>
 
-<div align= "center"><img src="https://github.com/Vrushti24/Face-Mask-Detection/blob/logo/Logo/facemaskdetection.ai%20%40%2051.06%25%20(CMYK_GPU%20Preview)%20%2018-02-2021%2018_33_18%20(2).png" width="200" height="200"/>
-  <h4>Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams, The CNN manages to get an accuracy of 99.38% on the training set and 99.44% on the test set. Then the stored weights of this CNN are used to classify as mask or no mask, in real time, using OpenCV. With the webcam capturing the video, the frames are preprocessed and and fed to the model to accomplish this task. The model works efficiently with no apparent lag time between wearing/removing mask and display of prediction.</h4>
+
+
+<div align= "center">
   
   ![Demo Face Mask Detection](https://github.com/Abdelrhman2022/Face-Mask-Detection/blob/main/Demo%20video%20of%20the%20(Face-Mask-Detection)%20Real-Time.gif)
+  
+  <h4>Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams, The CNN manages to get an accuracy of 99.38% on the training set and 99.44% on the test set. Then the stored weights of this CNN are used to classify as mask or no mask, in real time, using OpenCV. With the webcam capturing the video, the frames are preprocessed and and fed to the model to accomplish this task. The model works efficiently with no apparent lag time between wearing/removing mask and display of prediction.</h4>
+  
+
 </div>
 
 
