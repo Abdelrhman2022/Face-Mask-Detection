@@ -39,7 +39,12 @@ This system can therefore be used in real-time applications which require face-m
 
 
 ####          
-![](https://github.com/Abdelrhman2022/Face-Mask-Detection/blob/main/summary.PNG)
+<p align="center">
+  <img src="https://github.com/Abdelrhman2022/Face-Mask-Detection/blob/main/summary.PNG" alt="summary" />
+</p>
+
 
 #### We got the following accuracy/loss training curve plot
-![](https://github.com/Abdelrhman2022/Face-Mask-Detection/blob/main/plot.png)
+<p align="center">
+  <img src="https://github.com/Abdelrhman2022/Face-Mask-Detection/blob/main/plot.png" alt="summary" />
+</p>
